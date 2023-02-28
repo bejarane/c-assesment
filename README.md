@@ -59,10 +59,10 @@ Two scripts are provided that assist to deploy and destroy the infrastructure. T
 Scripts require variables to configure resources correcly, recommended commands are:
 - Deploy
 ```
-
+./deploy_docker_flask.sh -r <region> -a <account>
 ```
 
 - Destroy
 ```
+./destroy_docker_flask.sh -r <region> -a <account>
 ```
->>>>>>> d5c263f (uploading local)
