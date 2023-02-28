@@ -1,4 +1,3 @@
-[toc]
 #### [Click on this link to visit repo](https://github.com/bejarane/c-assesment)
 
 # Flow description
